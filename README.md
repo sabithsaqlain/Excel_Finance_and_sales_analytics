@@ -22,7 +22,7 @@
 
 -	Created different reports using pivot tables. 
 
-### 🔍 Key Insights
+## 🔍 Key Insights
 
 ### 💰 Finance Analytics Report
 
@@ -36,7 +36,7 @@
 
 -	Sales grew 304.5% between 2019 and 2021.
 
--	Top customers like Amazon an 🛠d Atliq Exclusive saw YoY growth over 200%.
+-	Top customers like Amazon and Atliq Exclusive saw YoY growth over 200%.
 
 -	Country-level target achievement was visualized for business strategy alignment.
 
