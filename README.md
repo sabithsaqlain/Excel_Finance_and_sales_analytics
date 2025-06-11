@@ -7,21 +7,6 @@ This project features two excel reports focusing on the sales and financial perf
 * finance_analytics_report — Presents a Profit & Loss summary, COGS, and Gross Margin % across years, quarters, and subzones.
 * sales_analytics_report — Analyzes customer-wise net sales, top-performing products, regional revenue, and target achievement.
 
-
-💰 Finance Analytics Report
-
-* Net Sales rose from $87.5M to $598.9M in 3 years.
-* Gross Margin % dropped from 41.4% to 36.4%, indicating increased COGS.
-* Region-wise profitability helped assess market-specific cost dynamics.
-
-
-📈 Sales Analytics Report
-
-* Sales grew 304.5% between 2019 and 2021.
-* Top customers like Amazon and Atliq Exclusive saw YoY growth over 200%.
-* Country-level target achievement was visualized for business strategy alignment.
-* Top products by quantity and revenue were highlighted to guide marketing focus.
-
 Technical skills
 
 *	 Utilized power query in Excel to perform ETL (Extract, Transform, Load).
@@ -32,6 +17,11 @@ Technical skills
 *  created different reports using pivot tables. 
 
 🔍 Key Insights
+💰 Finance Analytics Report
+
+* Net Sales rose from $87.5M to $598.9M in 3 years.
+* Gross Margin % dropped from 41.4% to 36.4%, indicating increased COGS.
+* Region-wise profitability helped assess market-specific cost dynamics.
 
 📈 Sales Analytics Report
 
@@ -39,9 +29,3 @@ Technical skills
 * Top customers like Amazon and Atliq Exclusive saw YoY growth over 200%.
 * Country-level target achievement was visualized for business strategy alignment.
 * Top products by quantity and revenue were highlighted to guide marketing focus.
-
-💰 Finance Analytics Report
-
-* Net Sales rose from $87.5M to $598.9M in 3 years.
-* Gross Margin % dropped from 41.4% to 36.4%, indicating increased COGS.
-* Region-wise profitability helped assess market-specific cost dynamics.
